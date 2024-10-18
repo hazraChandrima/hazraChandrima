@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-green.svg" alt="me" width="800px">
+  <img src="profile-3d-contrib/profile-green.svg" alt="me" width="700px">
 </div>
 
 
