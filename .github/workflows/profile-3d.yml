@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib-and-Summary-Cards
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "30 21 * * *"  # Runs at 3:00 AM IST
   workflow_dispatch:
@@ -33,4 +33,4 @@ jobs:
           git reset --hard origin/master  # This ensures we are in sync with the latest remote branch
           git add .  # This stages all changes
           git commit -m "generated 3D graph and summary cards" || echo "No changes to commit"
-          git push
+          git push --force
