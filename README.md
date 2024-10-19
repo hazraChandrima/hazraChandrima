@@ -23,9 +23,10 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="me" width="700px">
-</div>
+<img src="profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="me" width=""><img src="profile-summary-card-output/ayu_mirage/1-repos-per-language.svg" alt="me" width="">
+<img src="profile-summary-card-output/ayu_mirage/2-most-commit-language.svg" alt="me" width="">
+<img src="profile-summary-card-output/ayu_mirage/3-stats.svg" alt="me" width="">
+<img src="profile-summary-card-output/ayu_mirage/4-productive-time.svg" alt="me" width="">
 
 <br/>
 <div align="center">
