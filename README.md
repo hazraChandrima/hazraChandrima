@@ -23,6 +23,7 @@
 <br/>
 <br/>
 
+![GitHub Profile Summary Card](./profile-summary-card-output/0-profile-details.svg)
 
 <br/>
 <div align="center">
