@@ -22,7 +22,7 @@
 </div>
 <br/>
 
-# Technologies I've worked with
+## Technologies I've worked with
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,webstorm,html,css,js,react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,postgres,python,pycharm,java,c,figma,selenium,vscode,windows,powershell,mongo,vim" />
@@ -30,7 +30,7 @@
 </div>
 <br/>
 
-# My GitHub stats
+## My GitHub stats
 
 <div align="center">
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="me" width="685px"><img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="me" width="">
@@ -51,4 +51,13 @@
   <img src="./froggy.gif" alt="literally me" width="200px">
   <br/>
   that's just me the entire day
+</div>
+
+<br/>
+<hr/>
+
+### My contributions in Hacktoberfest 2024
+<br/>
+<div align="center">
+  <img src="https://holopin.me/hazrachandrima" alt="hacktoberfest holopin badges" width="600px" />
 </div>
