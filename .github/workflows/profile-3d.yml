@@ -30,7 +30,7 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git fetch origin
-          # git reset --hard origin/master  # This ensures we are in sync with the latest remote branch
+          git reset --hard origin/master  # This ensures we are in sync with the latest remote branch
           git add .  # This stages all changes
           git commit -m "generated 3D graph and summary cards" || echo "No changes to commit"
           git push --force
