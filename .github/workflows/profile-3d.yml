@@ -29,6 +29,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated 3D graph and summary cards"
+          git add .  # This stages all changes
+          git commit -m "generated 3D graph and summary cards" || echo "No changes to commit"
           git push
