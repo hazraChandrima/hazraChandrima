@@ -1,17 +1,17 @@
 # Hii, I'm Chandrima!
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="me" width="700px">
-</div>
-
-<br/>
-<br/>
-
 -💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems. 
 
 -🔥 Passionate about learning new technologies, and gaining knowledge.
 
 -🌟 Let's build something amazing together!
+<br/>
+<br/>
+
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="me" width="700px">
+</div>
 
 <br/>
 <br/>
