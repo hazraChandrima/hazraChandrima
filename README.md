@@ -33,10 +33,10 @@
 # My GitHub stats
 
 <div align="center">
-  <img src="profile-summary-card-output/moonlight/0-profile-details.svg" alt="me" width="685px"><img src="profile-summary-card-output/moonlight/1-repos-per-language.svg" alt="me" width="">
-  <img src="profile-summary-card-output/moonlight/2-most-commit-language.svg" alt="me" width="">
-  <img src="profile-summary-card-output/moonlight/3-stats.svg" alt="me" width="">
-  <img src="profile-summary-card-output/moonlight/4-productive-time.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="me" width="685px"><img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="me" width="">
 </div>
 <br/>
 
@@ -52,13 +52,3 @@
   <br/>
   that's just me the entire day
 </div>
-
-<br/>
-
-
-
-
-
-
-
-
