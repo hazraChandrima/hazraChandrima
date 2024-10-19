@@ -23,7 +23,9 @@
 <br/>
 <br/>
 
-![GitHub Profile Summary Card](./profile-summary-card-output/0-profile-details.svg)
+<div align="center">
+  <img src="profile-summary-card-output/ayu_mirage/0-profile-details.svg" alt="me" width="700px">
+</div>
 
 <br/>
 <div align="center">
