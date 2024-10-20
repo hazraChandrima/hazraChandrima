@@ -21,16 +21,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # Commit & Push for the 3D Profile Contribution Graph
+      - name: Commit & Push 3D Profile
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add profile-3d-contrib/ 
+          git diff-index --quiet HEAD || git commit -m "Generated 3D profile contribution graph"
+          git push
+
       # Step to generate the GitHub profile summary cards
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      # Commit & Push for the Summary Cards
+      - name: Commit & Push Summary Cards
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add --all --force 
-          git diff-index --quiet HEAD || git commit -m "Generated 3D graph and summary cards"
+          git add profile-summary-card-output/ 
+          git diff-index --quiet HEAD || git commit -m "Generated GitHub profile summary cards"
           git push
