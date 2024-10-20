@@ -52,10 +52,6 @@
   <br/>
   that's just me the entire day
 </div>
-
-<br/>
-<hr/>
-
 <!-- ### My contributions in Hacktoberfest 2024
 <br/>
 <div align="center">
