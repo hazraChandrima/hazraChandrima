@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib-and-Summary-Cards
 on:
   push:
     branches:
-      - master
+      - master  # Or 'main', depending on your default branch
   schedule:
     - cron: "30 21 * * *"  # Runs at 3:00 AM IST
   workflow_dispatch:
@@ -15,11 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      # Step to generate the 3D GitHub contribution graph
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PRIVATE }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      # Step to generate the GitHub profile summary cards
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -29,8 +31,8 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git fetch origin
-          git reset --hard origin/master  
-          git add .  
-          git commit -m "generated 3D graph and summary cards" 
-          git push --force
+          git add .
+          
+          git diff-index --quiet HEAD || git commit -m "Generated 3D graph and summary cards"
+          
+          git push
