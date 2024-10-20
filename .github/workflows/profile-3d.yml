@@ -3,7 +3,7 @@ name: GitHub-Profile-3D-Contrib-and-Summary-Cards
 on:
   push:
     branches:
-      - main
+      - master
   schedule:
     - cron: "30 21 * * *"  # Runs at 3:00 AM IST
   workflow_dispatch:
