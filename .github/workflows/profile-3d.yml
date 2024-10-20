@@ -31,8 +31,6 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add .
-          
+          git add --all --force 
           git diff-index --quiet HEAD || git commit -m "Generated 3D graph and summary cards"
-          
           git push
