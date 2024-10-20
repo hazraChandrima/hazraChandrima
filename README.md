@@ -56,8 +56,8 @@
 <br/>
 <hr/>
 
-### My contributions in Hacktoberfest 2024
+<!-- ### My contributions in Hacktoberfest 2024
 <br/>
 <div align="center">
-  <img src="https://holopin.me/hazrachandrima" alt="hacktoberfest holopin badges" width="600px" />
-</div>
+   <img src="https://holopin.me/hazrachandrima" alt="hacktoberfest holopin badges" width="600px" />
+</div> -->
