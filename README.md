@@ -16,12 +16,6 @@
 <br/>
 <br/>
 
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=hazraChandrima&limit=4&theme=dark&combine_all_yearly_contributions=true)
-</div>
-<br/>
-
 ## Technologies I've worked with
 <div align="center">
   <a href="https://skillicons.dev">
