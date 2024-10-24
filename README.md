@@ -5,7 +5,6 @@
 </div>
 
 <br/>
-<br/>
 
 -💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems. 
 
