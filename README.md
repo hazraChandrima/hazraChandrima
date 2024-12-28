@@ -10,7 +10,7 @@
 
 -🔥 Passionate about learning new technologies, and gaining knowledge.
 
--🌟 Let's build something amazing together!
+-🐧 Currently exploring Linux.
 
 <br/>
 <br/>
