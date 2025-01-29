@@ -15,41 +15,39 @@
 <br/>
 <br/>
 
+
 ## Technologies I've worked with
 
-
 <div align="center">
-    <div>
-     <h2>Languages</h2>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,python,java,c,bash" />
-      </a>
-    </div>
-    <div>
-     <h2>Libraries and Frameworks</h2>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
-      </a>
-    </div>
-    <div>
-     <h2>Databases</h2>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
-      </a>
-    </div>
-    <div>
-     <h2>Software Tools</h2>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
-      </a>
-    </div>
-    <div>
-     <h2>Operating Systems/ Kernels</h2>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,windows,powershell" />
-      </a>
-    </div>
 
+### Languages
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,python,java,c,bash" />
+  </a>
+      
+    
+  ### Libraries and Frameworks
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+  </a>
+
+    
+  ### Databases
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
+  </a>
+   
+    
+  ### Software Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
+  </a>
+ 
+
+### Operating Systems/ Kernels
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,windows,powershell" />
+</a>
 
 </div>
 <br/>
