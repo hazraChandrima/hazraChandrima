@@ -5,43 +5,66 @@
 </div>
 
 <br/>
-<br/>
 
--💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems. 
+-💻 I love contributing to open-source projects and collaborating with the community to solve real-world problems.
 
 -🔥 Passionate about learning new technologies, and gaining knowledge.
 
--🌟 Let's build something amazing together!
+-🐧 Currently exploring Linux.
 
 <br/>
-<br/>
-
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=hazraChandrima&limit=4&theme=dark&combine_all_yearly_contributions=true)
-</div>
 <br/>
 
 ## Technologies I've worked with
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,html,css,js,react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite,postgres,python,pycharm,java,c,figma,selenium,vscode,windows,powershell,mongo,vim" />
-  </a>
+    <div>
+     <h2>Languages</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,python,java,c,bash" />
+      </a>
+    </div>
+    <div>
+     <h2>Libraries and Frameworks</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+      </a>
+    </div>
+    <div>
+     <h2>Databases</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
+      </a>
+    </div>
+    <div>
+     <h2>Software Tools</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
+      </a>
+    </div>
+    <div>
+     <h2>Operating Systems/ Kernels</h2>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,windows,powershell" />
+      </a>
+    </div>
+
+
 </div>
 <br/>
 
 ## My GitHub stats
 
 <div align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="me" width="685px"><img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="me" width="">
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="me" width="685px">
+<!--   <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="me" width=""> -->
   <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="me" width="">
   <img src="profile-summary-card-output/github_dark/4-productive-time.svg" alt="me" width="">
 </div>
 <br/>
 
 <div align="center">
-  
+
 [![](https://visitcount.itsvg.in/api?id=hazraChandrima&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
