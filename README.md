@@ -16,6 +16,8 @@
 <br/>
 
 ## Technologies I've worked with
+
+
 <div align="center">
     <div>
      <h2>Languages</h2>
@@ -51,6 +53,7 @@
 
 </div>
 <br/>
+
 
 ## My GitHub stats
 
