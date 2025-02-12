@@ -38,7 +38,7 @@
   </a>
 
 
-   ### Deployment Services
+   ### Cloud Services
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
