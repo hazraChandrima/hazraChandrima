@@ -36,6 +36,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo" />
   </a>
+
+
+   ### Deployment Services
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
    
     
   ### Software Tools
