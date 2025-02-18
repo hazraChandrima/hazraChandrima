@@ -40,7 +40,7 @@
 
    ### Cloud Services
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
   </a>
    
     
