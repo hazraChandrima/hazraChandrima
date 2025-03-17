@@ -12,6 +12,8 @@
 
 -🐧 Currently exploring Linux.
 
+-📫 How to reach me **hazrachandrima4@gmail.com**
+
 <br/>
 <br/>
 
@@ -71,9 +73,9 @@
 <br/>
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=hazraChandrima&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hazraChandrima&style=for-the-badge&base=120">
+</a>
 </div>
 
 <br/>
@@ -82,6 +84,26 @@
   <br/>
   that's just me the entire day
 </div>
+
+<br/>
+
+<div align="center">
+  
+### Connect with me
+  
+<a href="https://www.linkedin.com/in/chandrima-hazra-65494a219/" target="blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="chandrima-hazra-linkedin"/>
+</a>
+
+<a href="https://www.reddit.com/user/CookEducational7483/" target="blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="chandrima-hazra-reddit"/>
+</a>
+
+<a href="https://x.com/hazra78436" target="blank">
+  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="chandrima-hazra-x"/>
+</a>
+</div>
+
 <!-- ### My contributions in Hacktoberfest 2024
 <br/>
 <div align="center">
