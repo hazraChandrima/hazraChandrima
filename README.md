@@ -12,7 +12,7 @@
 
 -🐧 Currently exploring Linux.
 
--📫 How to reach me **hazrachandrima4@gmail.com**
+-📫 How to reach me **hazrachandrima6@gmail.com**
 
 <br/>
 <br/>
