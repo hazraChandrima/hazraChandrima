@@ -91,21 +91,10 @@
   
 ### Connect with me
   
-<a href="https://www.linkedin.com/in/chandrima-hazra-65494a219/" target="_blank">
-  <span style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="chandrima-hazra-linkedin"/>
-  </span>
-</a>
-<a href="https://www.reddit.com/user/CookEducational7483/" target="_blank">
-  <span style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="chandrima-hazra-reddit"/>
-  </span>
-</a>
-<a href="https://x.com/hazra78436" target="_blank">
-  <span style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="chandrima-hazra-x"/>
-  </span>
-</a>
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/chandrima-hazra-65494a219/)
+[![Reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://www.reddit.com/user/CookEducational7483/)
+[![X](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg)](https://x.com/hazra78436)
+
 </div>
 
 <!-- ### My contributions in Hacktoberfest 2024
