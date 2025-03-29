@@ -91,16 +91,20 @@
   
 ### Connect with me
   
-<a href="https://www.linkedin.com/in/chandrima-hazra-65494a219/" target="blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="chandrima-hazra-linkedin"/>
+<a href="https://www.linkedin.com/in/chandrima-hazra-65494a219/" target="_blank">
+  <span style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="chandrima-hazra-linkedin"/>
+  </span>
 </a>
-
-<a href="https://www.reddit.com/user/CookEducational7483/" target="blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="chandrima-hazra-reddit"/>
+<a href="https://www.reddit.com/user/CookEducational7483/" target="_blank">
+  <span style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="chandrima-hazra-reddit"/>
+  </span>
 </a>
-
-<a href="https://x.com/hazra78436" target="blank">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="chandrima-hazra-x"/>
+<a href="https://x.com/hazra78436" target="_blank">
+  <span style="display: inline-block;">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="chandrima-hazra-x"/>
+  </span>
 </a>
 </div>
 
