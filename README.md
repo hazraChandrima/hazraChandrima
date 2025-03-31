@@ -24,7 +24,7 @@
 
 ### Languages
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,python,java,c,bash" />
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,bash" />
   </a>
       
     
