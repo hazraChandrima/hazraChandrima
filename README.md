@@ -94,7 +94,7 @@
 
 <div align="center">
   
-### Connect with me
+### Let's Connect!
   
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://www.linkedin.com/in/chandrima-hazra-65494a219/)
 [![Reddit](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg)](https://www.reddit.com/user/CookEducational7483/)
@@ -107,4 +107,5 @@
 <div align="center">
    <img src="https://holopin.me/hazrachandrima" alt="hacktoberfest holopin badges" width="600px" />
 </div> -->
+
 
