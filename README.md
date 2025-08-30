@@ -23,37 +23,32 @@
 <div align="center">
 
 ### Languages
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,bash" />
-  </a>
-      
-    
-  ### Libraries & Frameworks
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
-  </a>
-
-    
-  ### Databases
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase" />
-  </a>
-
-
-   ### Cloud Services
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,googlecloud" />
-  </a>
-   
-    
-  ### Software Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,webstorm,pycharm,figma,selenium,vscode,vim,blender" />
-  </a>
-
- ### DevOps & Containerization
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,bash" />
+</a>
+    
+  
+### Libraries & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,vercel,express,nodejs,mui,npm,vite" />
+</a>
+  
+    
+### Software Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,figma,selenium,blender,vim,neovim" />
+</a>
+
+  
+### Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,firebase" />
+</a>
+  
+
+### Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,googlecloud" />
 </a>
 
 
@@ -107,5 +102,6 @@
 <div align="center">
    <img src="https://holopin.me/hazrachandrima" alt="hacktoberfest holopin badges" width="600px" />
 </div> -->
+
 
 
