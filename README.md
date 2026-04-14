@@ -1,15 +1,11 @@
-# Hii, I'm Chandrima!
 
-<div align="center">
+<!-- <div align="center">
   <img src="profile-3d-contrib/profile-night-green.svg" alt="me" width="700px">
 </div>
+<br/> -->
 
-<br/>
 
-
-<br/>
 <!-- <br/>
-
 
 ## Technologies I've worked with
 
